@@ -24,7 +24,7 @@ The table below lists each tool used in this report and its purpose.
 
 # 3. Procedure
 ## Using John The Ripper:
-STEP 1:    Download John the Ripper from official website on your windows PC.<br>
+STEP 1: &nbsp;   Download John the Ripper from official website on your windows PC.<br>
 STEP 2:    Download [Johnny GUI](https://openwall.info/wiki/john/johnny) from official website.<br>
 STEP 3:    Run the setup file & install those tools. <br>
 STEP 4:    Download the encrypted PDF file to your PC. (Added here as My Locked PDF1, 2 and 3) <br>
