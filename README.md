@@ -56,6 +56,6 @@ STEP 8: &nbsp;   Open the locked PDF file and enter the cracked password.<br>
 ![PDF 1 - Good Luck](PDF1_good-luck.png)\
 ![PDF 2 - Password 1](PDF2_password1.png)\
 ![PDF 3 - 1qaz2wsx](PDF3_1qaz2wsx.png)\
-![PDF-Unlocked- using-NW-tools.png](PDF-Unlocked-using-NW-tools.png)\
+![PDF-Unlocked- using-NW-tools.png](PDF-Unlocked-using-NW-tools.png)
 
 
