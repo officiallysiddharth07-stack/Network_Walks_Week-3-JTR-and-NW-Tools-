@@ -1,6 +1,6 @@
 # 1. Introduction
 This report covers the task of Password Cracking with JTR and NetworkWalks tools. <br><br>
-<b>$Password cracking$</b> is the process of recovering a password from stored data or a protected file. Security
+<b>_Password cracking_</b> is the process of recovering a password from stored data or a protected file. Security
 professionals use it to test how strong a password is and to show why weak passwords are risky. If a
 password is short or common, it can be found quickly, which proves the need for strong passwords.<br><br>
 <b>$John the Ripper (JTR)$</b>  is a popular password cracking tool used by security professionals to test how strong
