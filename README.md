@@ -12,9 +12,6 @@ In case of tools from networkwalks, first I have used the <b>Hash Calculator</b>
 
 # 2. Tools Used
 The table below lists each tool used in this report and its purpose.
-## 2. Tools Used
-
-The table below lists each tool used in this report and its purpose.
 
 | Tool | Purpose |
 |---|---|
