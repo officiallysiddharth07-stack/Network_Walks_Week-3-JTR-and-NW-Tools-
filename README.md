@@ -14,14 +14,10 @@ In case of tools from networkwalks, first I have used the Hash Calculator to tak
 The table below lists each tool used in this report and its purpose.
 | Tool | Purpose |
 |---|---|
-| Kali Linux & Windows | Operating systems used for recon activities             |
-| whois                | Finds domain registration details (owner, dates, name servers).   |
-| whatweb              | Fingerprints web technologies (server, CMS, plugins, IP).         |
-| nslookup             | Resolves the domain name to its IP address using DNS.             |
-| curl -I              | Reads the HTTP response headers of the website.                   |
-| wafw00f              | Detects whether a Web Application Firewall protects the site.     |
-| dnsrecon             | Enumerates all DNS records (NS, MX, SPF, TXT, SRV).               |
-| Zenmap (Nmap GUI)    | Scans the local subnet to find live hosts, IPs and MAC addresses. |
-| Windows CMD          | Local IP and MAC address identification                          |
+| Online Hash Crack     | Generating hashes of locked pdfs              |
+| John the Ripper (JTR) | Unlocking password protected files like PDF   |
+| NW Hash Calculator    | Taking the hash out of a locked PDF file      |
+| NW  Password Cracker  | Finding the real password from that hash      |
+
 
 # 3. Activities Performed
