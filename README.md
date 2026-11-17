@@ -37,12 +37,11 @@ STEP 10:&nbsp;   Use this password to open your PDF file.<br>
 ## Using NetworkWalks Tools:
 STEP 1: &nbsp;   Download the encrypted PDF file (My Locked PDF1.pdf).<br>
 STEP 2: &nbsp;   Open the Networkwalks Hash Calculator in your web browser.<br>
-STEP 3: &nbsp;   Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash
-value that starts with $$pdf$$... <br>
-STEP 4: &nbsp;   Download the encrypted PDF file to your PC. (Added here as My Locked PDF1, 2 and 3) <br>
-STEP 5: &nbsp;   Open the online hash crack website & upload your pdf file to find its hash.<br>
-STEP 6: &nbsp;   Select & copy the hash value. Open notepad and Paste the hash value inside notepad. Thus, Save the file with name hash1.txt. <br>
-STEP 7: &nbsp;   Open Johnny, Click on ‘Open password file’, Browse to the hash1.txt file that you have just saved & click on Open. <br>
-STEP 8: &nbsp;   Click on ‘Start new attack’<br>
-STEP 9: &nbsp;   PDF file password will be cracked.<br>
-STEP 10:&nbsp;   Use this password to open your PDF file.<br>
+STEP 3: &nbsp;   Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash value. <br>
+STEP 4: &nbsp;   Copy the full hash value.<br>
+STEP 5: &nbsp;   Open the Networkwalks Password Cracker in your web browser.<br>
+STEP 6: &nbsp;   Paste the hash value into the Password Cracker and start the attack. The tool will try different
+passwords until it finds a match. <br>
+STEP 7: &nbsp;   Wait for the tool to finish. The cracked password will be shown on the screen. <br>
+STEP 8: &nbsp;   Open the locked PDF file and enter the cracked password.<br>
+
