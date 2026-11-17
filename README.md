@@ -18,10 +18,10 @@ The table below lists each tool used in this report and its purpose.
 
 | Tool | Purpose |
 |---|---|
-| 1. [Online Hash Crack](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php) | Generating hashes of locked PDFs |
-| 2. [John the Ripper (JTR)](https://www.openwall.com/john/) | Unlocking password-protected files like PDFs |
-| 3. [NW Hash Calculator](https://networkwalks.com/hash-calculator/) | Extracting the hash from a locked PDF file |
-| 4. [NW Password Cracker](https://networkwalks.com/password-cracker/) | Finding the real password from that hash |
+| [Online Hash Crack](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php) | Generating hashes of locked PDFs |
+| [John the Ripper (JTR)](https://www.openwall.com/john/) | Unlocking password-protected files like PDFs |
+| [NW Hash Calculator](https://networkwalks.com/hash-calculator/) | Extracting the hash from a locked PDF file |
+| [NW Password Cracker](https://networkwalks.com/password-cracker/) | Finding the real password from that hash |
 
 
 
