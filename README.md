@@ -20,6 +20,7 @@ The table below lists each tool used in this report and its purpose.
 | [NW Hash Calculator](https://networkwalks.com/hash-calculator/) | Extracting the hash from a locked PDF file |
 | [NW Password Cracker](https://networkwalks.com/password-cracker/) | Finding the real password from that hash |
 
+All the files to crack are listed under the folder named as Essential Files.
 
 
 # 3. Procedure
