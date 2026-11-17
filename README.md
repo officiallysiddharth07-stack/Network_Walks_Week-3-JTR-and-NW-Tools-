@@ -48,13 +48,13 @@ STEP 8: &nbsp;   Open the locked PDF file and enter the cracked password.<br>
 # 4. Evidences
 
 *Few screenshots are here. 
-<br>(Others you could find in this repo)*
+<br>(Others you could find in this repo)*<br>
 ![Each Hash Generator Online](Each-Hash-generator-online.png)\
 ![Flag Captured 1](FlagCaptured1.png)\
 ![Flag Captured 2](FlagCaptured2.png)\
 ![Flag Captured 3](FlagCaptured3.png)\
 ![PDF 1 - Good Luck](PDF1_good-luck.png)\
 ![PDF 2 - Password 1](PDF2_password1.png)\
-![PDF-Unlocked- using-NW-tools.png](PDF-Unlocked-using-NW-tools.png)\
+![PDF Unlocked using NW tools.png](PDF-Unlocked-using-NW-tools.png)\
 
 
