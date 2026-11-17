@@ -25,13 +25,13 @@ The table below lists each tool used in this report and its purpose.
 # 3. Procedure
 ## Using John The Ripper:
 STEP 1: &nbsp;   Download John the Ripper from official website on your windows PC.<br>
-STEP 2:    Download [Johnny GUI](https://openwall.info/wiki/john/johnny) from official website.<br>
-STEP 3:    Run the setup file & install those tools. <br>
-STEP 4:    Download the encrypted PDF file to your PC. (Added here as My Locked PDF1, 2 and 3) <br>
-STEP 5:    Open the online hash crack website & upload your pdf file to find its hash.<br>
-STEP 6:    Select & copy the hash value. Open notepad and Paste the hash value inside notepad. Thus, Save the file with name hash1.txt. <br>
-STEP 7:    Open Johnny, Click on ‘Open password file’, Browse to the hash1.txt file that you have just saved & click on Open. <br>
-STEP 8:    Click on ‘Start new attack’<br>
-STEP 9:    PDF file password will be cracked.<br>
-STEP 10:   Use this password to open your PDF file.<br>
+STEP 2: &nbsp;   Download [Johnny GUI](https://openwall.info/wiki/john/johnny) from official website.<br>
+STEP 3: &nbsp;   Run the setup file & install those tools. <br>
+STEP 4: &nbsp;   Download the encrypted PDF file to your PC. (Added here as My Locked PDF1, 2 and 3) <br>
+STEP 5: &nbsp;   Open the online hash crack website & upload your pdf file to find its hash.<br>
+STEP 6: &nbsp;   Select & copy the hash value. Open notepad and Paste the hash value inside notepad. Thus, Save the file with name hash1.txt. <br>
+STEP 7: &nbsp;   Open Johnny, Click on ‘Open password file’, Browse to the hash1.txt file that you have just saved & click on Open. <br>
+STEP 8: &nbsp;   Click on ‘Start new attack’<br>
+STEP 9: &nbsp;   PDF file password will be cracked.<br>
+STEP 10:&nbsp;   Use this password to open your PDF file.<br>
 
