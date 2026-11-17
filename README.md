@@ -45,3 +45,17 @@ passwords until it finds a match. <br>
 STEP 7: &nbsp;   Wait for the tool to finish. The cracked password will be shown on the screen. <br>
 STEP 8: &nbsp;   Open the locked PDF file and enter the cracked password.<br>
 
+# 4. Evidences
+
+*Few screenshots are here. 
+<br>(Others you could find in this repo)*
+![Each Hash Generator Online](Each-Hash-generator-online.png)\
+![Flag Captured 1](FlagCaptured1.png)\
+![Flag Captured 2](FlagCaptured2.png)\
+![Flag Captured 3](FlagCaptured3.png)\
+![PDF 1 - Good Luck](PDF1_good-luck.png)\
+![PDF 2 - Password 1](PDF2_password1.png)\
+![PDF 3 - 1qaz2wsx](PDF3_1qaz2wsx.png)\
+![PDF Unlocked Using NW Tools](PDF-Unlocked-using-NW-tools.png)\
+
+
