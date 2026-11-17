@@ -34,11 +34,11 @@ STEP 7: &nbsp;   Open Johnny, Click on ‘Open password file’, Browse to the h
 STEP 8: &nbsp;   Click on ‘Start new attack’<br>
 STEP 9: &nbsp;   PDF file password will be cracked.<br>
 STEP 10:&nbsp;   Use this password to open your PDF file.<br>
-<br>
 ## Using NetworkWalks Tools:
-STEP 1: &nbsp;   Download John the Ripper from official website on your windows PC.<br>
-STEP 2: &nbsp;   Download [Johnny GUI](https://openwall.info/wiki/john/johnny) from official website.<br>
-STEP 3: &nbsp;   Run the setup file & install those tools. <br>
+STEP 1: &nbsp;   Download the encrypted PDF file (My Locked PDF1.pdf).<br>
+STEP 2: &nbsp;   Open the Networkwalks Hash Calculator in your web browser.<br>
+STEP 3: &nbsp;   Upload the locked PDF file to the Hash Calculator. The tool will read the file and give you the hash
+value that starts with $pdf$... <br>
 STEP 4: &nbsp;   Download the encrypted PDF file to your PC. (Added here as My Locked PDF1, 2 and 3) <br>
 STEP 5: &nbsp;   Open the online hash crack website & upload your pdf file to find its hash.<br>
 STEP 6: &nbsp;   Select & copy the hash value. Open notepad and Paste the hash value inside notepad. Thus, Save the file with name hash1.txt. <br>
