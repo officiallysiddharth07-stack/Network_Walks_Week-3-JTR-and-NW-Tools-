@@ -19,8 +19,10 @@ The table below lists each tool used in this report and its purpose.
 | 3. NW Hash Calculator    | Taking the hash out of a locked PDF file      |
 | 4. NW  Password Cracker  | Finding the real password from that hash      | 
 
-<br>Links : 1. https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php<br>
-            3. https://networkwalks.com/hash-calculator/<br>
-            4. https://networkwalks.com/password-cracker/<br>
+<br>Links To The Used Tools: 
+1. https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php<br>
+2. https://www.openwall.com/john/<br>
+3. https://networkwalks.com/hash-calculator/<br>
+4. https://networkwalks.com/password-cracker/<br>
 
 # 3. Activities Performed
